@@ -1,4 +1,4 @@
-### Hi there, I'm Norrec.
+### Hi, I'm Norrec.
 ---
 #### About Me
 
