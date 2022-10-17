@@ -6,7 +6,7 @@
 * Security-focused software engineer
 * Interested in cybersecurity, cloud computing, SIEMs, and firewalls
 * Background in sound design and editing for theater and film
-* Other passions include political theology, martial arts, and veteran-owned businesses!
+* Other passions include political theology, martial arts, and veteran-owned businesses
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
