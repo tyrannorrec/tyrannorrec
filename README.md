@@ -4,7 +4,7 @@
 
 * MSCS Candidate at Northeastern University
 * Security-focused software engineer
-* Interested in cloud computing, cybersecurity, social engineering, SIEMs, and firewalls
+* Interested in datams science, cloud computing, cybersecurity, social engineering, SIEMs, and firewalls
 * Background in sound design and editing for theater and film
 * Other passions include political theology, martial arts, and veteran-owned businesses
 
